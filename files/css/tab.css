@@ -1,0 +1,35 @@
+@media screen and (max-width: 991px) {
+
+    .my-photo {
+        padding-top: 30px;
+        text-align: center;
+    }
+
+    .my-align {
+        text-align: center;
+    }
+
+    main {
+        margin: 0;
+    }
+
+    .my-flex {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .my-mahin {
+        width: 340px;
+    }
+
+    .my-scl {
+        margin-left: -8px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .my-flex {
+        display: flex;
+        flex-direction: row;
+    }
+}

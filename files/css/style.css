@@ -1,0 +1,175 @@
+.my-navshadow {
+    box-shadow: 0px 1px 7px silver;
+}
+
+.navbar-brand:hover {
+    color: #FF4155 !important;
+}
+
+.my-logo {
+    width: 50px;
+    aspect-ratio: 1/1;
+}
+
+.navbar-toggler {
+    border: 1px solid #ff415459 !important;
+}
+
+.navbar-toggler-icon {
+    border-color: #FF4155 !important;
+    stroke: red !important;
+    fill: red;
+}
+
+.navbar-toggler:hover {
+    outline: 5px solid #ffafb7 !important;
+    transition: 0.1s;
+}
+
+.my-ul {
+    text-align: center;
+}
+
+.my-ul .nav-link:hover {
+    font-weight: 700 !important;
+    color: #FF4155 !important;
+    transform: scale(1.1);
+}
+
+.my-btncolor {
+    background-color: #FF4155 !important;
+    border-color: #FF4155 !important;
+    font-weight: 700 !important;
+}
+
+.my-btncolor:hover {
+    color: white !important;
+    box-shadow: 1px 1px 10px #FF4155 !important;
+    background-color: red !important;
+    border: 1px solid red !important;
+    transition: 0.3s;
+}
+
+.my-marginonlytop{
+    margin-top: 50px;
+}
+
+.my-margintop {
+    margin-top: 100px;
+}
+
+main span {
+    display: block;
+}
+
+.my-heading {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: normal;
+    padding: 30px 0px 30px 0px;
+}
+
+.my-heading2 {
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 60px;
+    background: linear-gradient(to right, #ff4154be, #ff415477);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.my-headdesc {
+    font-size: 24px;
+    line-height: 30px;
+    padding-top: 30px;
+}
+
+.my-btn {
+    border-radius: 30px !important;
+    border: 1px solid #FF4155 !important;
+    color: #FF4155 !important;
+}
+
+.my-btn:hover {
+    background-color: #FF4155 !important;
+    color: white !important;
+}
+
+.my-socials {
+    margin-top: 30px;
+}
+
+.my-socials a {
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.my-scl {
+    width: 36px;
+    color: white;
+    stroke: #FF4155;
+    stroke-width: 0.5;
+}
+
+.my-scl:hover {
+    fill: #FF4155;
+    stroke: transparent;
+    stroke-width: 0.5;
+}
+
+.my-photo {
+    text-align: right;
+}
+
+.my-mahin {
+    width: 400px;
+    aspect-ratio: 1/1;
+    border-radius: 30px;
+    filter: drop-shadow(1px 1px 5px silver);
+    border: 5px solid transparent;
+    outline: 5px solid transparent;
+}
+
+.my-mahin:hover {
+    border: 5px solid #ff415486;
+    outline: 5px solid #ff415456;
+    transition: 1s;
+}
+
+.my-headmob {
+    display: none;
+}
+
+.card-img-top {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+}
+
+.my-progress {
+    height: 30px !important;
+}
+
+.my-proclr {
+    background-color: #FF4155 !important;
+    font-size: large;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+    outline: 5px solid #ffafb7 !important;
+    border: 1px solid #ffafb7 !important;
+}
+
+option:hover {
+    background-color: #ffafb7 !important;
+}
+
+footer {
+    width: 100%;
+    padding: 50px;
+    background-color: #FF4155;
+    color: white !important;
+    text-shadow: 1px 1px 3px black !important;
+}

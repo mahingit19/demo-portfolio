@@ -1,0 +1,18 @@
+@media screen and (max-width: 350px) {
+    .my-mahin {
+        width: 100%;
+    }
+
+    .my-heading {
+        line-height: normal;
+    }
+
+    .my-btn {
+        display: block;
+        width: 100%;
+    }
+
+    .my-scl {
+        margin-top: 10px;
+    }
+}
